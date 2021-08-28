@@ -7,7 +7,7 @@ A new venture to open a Surf and Shake shop which would sell surfboards and ice-
 
 |June | December|
 |-----|------|
-|<img src = 'Resources/JuneTemps'>|<img src = 'Resources/DecTemps'>
+|<img src = 'Resources/JuneTemps.png'>|<img src = 'Resources/DecTemps.png'>
 
 ### Observations
 1. The average temperature in June is 75 while December is 71. There is only a difference of 3 degrees between the summer and winter months.
